@@ -1,0 +1,80 @@
+{
+  "name": "Mohid Ramzan",
+  "title": "Flutter Developer",
+  "location": "San Francisco, CA",
+  "email": "mohid.ramzan@dev.io",
+  "github": "octocat",
+  "linkedin": "linkedin.com/in/mohid-ramzan",
+  "bio": "Passionate Flutter Developer specializing in crafting high-performance, beautiful mobile and web applications with clean architecture and solid OOP principles.",
+  "about_details": "I am a dedicated developer focused on building scalable cross-platform mobile apps using Flutter and Dart. I write clean, maintainable code leveraging Object-Oriented Programming (OOP) and modern databases like MySQL and Supabase.",
+  "stats": {
+    "experience": "6 months",
+    "projects": "5",
+    "contributions": "10"
+  },
+  "skills": [
+    {
+      "category": "Mobile Development",
+      "items": ["Flutter", "Dart", "OOP (Object-Oriented Programming)"]
+    },
+    {
+      "category": "Web & Layouts",
+      "items": ["HTML", "CSS", "Responsive Layouts"]
+    },
+    {
+      "category": "Backend & Databases",
+      "items": ["MySQL", "Supabase", "REST APIs"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Flutter App Developer",
+      "company": "AppForge Studio",
+      "period": "2025 - Present",
+      "description": "Architected and shipped modular Flutter applications, reducing codebase complexity using BLoC and Clean OOP Architecture. Integrated Supabase real-time databases and MySQL queries."
+    },
+    {
+      "role": "Mobile Developer Intern",
+      "company": "PixelCraft Systems",
+      "period": "2024 - 2025",
+      "description": "Created interactive UI modules using Flutter and Dart. Collaborated with design teams to translate high-fidelity Figma mockups into responsive mobile apps."
+    }
+  ],
+  "featured_projects": [
+    {
+      "title": "EcoTrack Mobile App",
+      "description": "A cross-platform Flutter application built to track carbon footprint and gamify ecological milestones. Features clean OOP layout, interactive charts, and offline-first state persistence.",
+      "tech": ["Flutter", "Dart", "MySQL"],
+      "live_url": "#",
+      "github_url": "#"
+    },
+    {
+      "title": "ChatForge Realtime",
+      "description": "A real-time messaging application featuring instant database sync via Supabase, message caching, and secure token authentication.",
+      "tech": ["Flutter", "Supabase", "Dart"],
+      "live_url": "#",
+      "github_url": "#"
+    },
+    {
+      "title": "Apex Task Board",
+      "description": "A high-performance Kanban board application for software engineering teams, featuring real-time WebSocket state management and beautiful slide transitions.",
+      "tech": ["Flutter", "Supabase Auth", "MySQL"],
+      "live_url": "#",
+      "github_url": "#"
+    },
+    {
+      "title": "QuickShare Cloud",
+      "description": "A secure file sharing application utilizing Supabase storage buckets and custom metadata querying via SQL.",
+      "tech": ["Flutter", "Supabase Storage", "MySQL"],
+      "live_url": "#",
+      "github_url": "#"
+    },
+    {
+      "title": "FoodieDelivery",
+      "description": "A clean architecture food ordering app built with state management and dynamic map integration.",
+      "tech": ["Flutter", "Dart", "OOP"],
+      "live_url": "#",
+      "github_url": "#"
+    }
+  ]
+}
